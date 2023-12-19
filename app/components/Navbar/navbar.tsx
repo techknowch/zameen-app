@@ -1,9 +1,16 @@
 
 import React from "react";
+import SinisterComponent from "./sinister";
 
 const NavbarComponent = () => {
     return (
-        <div>Hello</div>
+        <>
+            <header>
+                <div className="w-full bg-primary-color">
+                    <SinisterComponent />
+                </div>
+            </header>
+        </>
     );
 };
 
