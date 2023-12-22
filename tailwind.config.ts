@@ -15,6 +15,19 @@ const config: Config = {
       },
       backgroundColor: {
         'primary-color': '#33a137',
+        'light-grey': '#f7f7f7',
+        'dark-grey': '#8a8a8a',
+        'opaque': 'rgba(34,34,34,.85)',
+      },
+      colors: {
+        primary: '#3490dc',
+        secondary: '#8a8a8a',
+      },
+      height: {
+        'custom': '450px',
+      },
+      width: {
+        'custom': '600px',
       },
     },
   },
