@@ -22,6 +22,12 @@ const config: Config = {
       colors: {
         primary: '#3490dc',
         secondary: '#8a8a8a',
+        lightGreen: '#00a651',
+        borderColor: '#e6e6e6',
+      },
+      fontSize: {
+        'x-small': '12px',
+        'xs-small': '13px',
       },
       height: {
         'custom': '450px',

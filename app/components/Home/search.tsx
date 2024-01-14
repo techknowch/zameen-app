@@ -1,5 +1,5 @@
 import React from 'react';
-import ArrowDown from '../Svgs/arrowDown';
+import ArrowDown from '../Visuals/arrowDown';
 
 const SearchComponent = () => {
     return (

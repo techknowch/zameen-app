@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import HomeSVG from "../Svgs/homeSvg";
+import HomeSVG from "../Visuals/homeSvg";
 
 const SinisterComponent = () => {
     return (
